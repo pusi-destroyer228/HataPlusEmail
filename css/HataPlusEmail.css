@@ -85,6 +85,15 @@ text-align: right;
     font-family: "Arial";
 }
 
+.main-text1 {
+    text-align: center;
+    margin: 0;
+    line-height: 1.7em;
+    font-size: 14px;
+    color: #666666;
+    font-family: "Arial";
+}
+
 .button {
     font-size: 14px;
     color: #ffffff;
@@ -124,39 +133,50 @@ text-align: right;
 }
 
 .icon1 {
+    text-align: center;
     padding-top: 35px;
     padding-left: 35px;
     padding-bottom: 35px;
 }
 
 .icon2 {
-    padding-left: 35px;
+    text-align: center;
+    padding-left: 10px;
     padding-top: 35px;
     padding-bottom: 35px;
 }
 
 .icon3 {
-    padding-left: 35px;
+    text-align: center;
+    padding-left: 10px;
     padding-top: 35px;
     padding-bottom: 35px;
     padding-right: 35px;
 }
 
 .path1 {
-    padding-left: 60px;
+    text-align: center;
 }
 
 .path2 {
-    padding-left: 55px;
+    text-align: center;
 }
 
 .path3 {
-    padding-left: 55px;
+    text-align: center;
+}
+
+.main3 .h2-house {
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+    font-family: "Arial";
 }
 
 .main4 {
     height: 195px;
-    background-image: url(../img/back.png);
+    background-image: url(https://raw.githubusercontent.com/pusi-destroyer228/HataPlusEmail/594bbe0ce1f4b848292f911167d76f06d28559de/img/back.png);
 }
 
 .hui {

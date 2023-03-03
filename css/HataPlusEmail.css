@@ -166,12 +166,36 @@ text-align: right;
     text-align: center;
 }
 
+.house {
+    margin: 0 auto;
+}
+
 .main3 .h2-house {
+    padding-left: 20px;
+    text-align: left;
+    vertical-align: top;
+    margin: 0;
     font-size: 16px;
     line-height: 24px;
     color: #1f1f56;
     font-weight: bold;
     font-family: "Arial";
+}
+
+.huila {
+    width: 260px;
+    height: 65px;
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+    font-family: "Arial";
+    padding-left: 20px;
+    display: block;
+    width: 230px;
+}
+
+.montreal {
+    margin-top: 25px;
 }
 
 .main4 {

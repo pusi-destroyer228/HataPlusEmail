@@ -71,7 +71,6 @@ h3 {
 .tel {
     margin-top: 0;
     font-size: 13px;
-    line-height: 18px;
     color: #9999a6;
     font-style: italic;
     font-family: "Arial";
@@ -84,7 +83,7 @@ h3 {
 
 .tdTel {
     padding-right: 20px;
-    padding-left: 60px;
+    text-align: right;
 }
 
 .ddt {
@@ -150,6 +149,10 @@ h3 {
     height: 140px;
 }
 
+.padding {
+    padding-right: 20px;
+}
+
 .icon1 {
     text-align: center;
     padding-top: 35px;
@@ -202,9 +205,8 @@ h3 {
 
 .huila {
     width: 260px;
-    height: 65px;
     font-size: 13px;
-    line-height: 19px;
+    line-height: 1.4em;
     color: #9999a6;
     font-family: "Arial";
     padding-left: 20px;
@@ -370,7 +372,7 @@ h3 {
 }
 
 .footer {
-    padding-left: 220px;
+    text-align: center;
     width: 600px;
     height: 46px;
     background-color: #000014;
